@@ -1,0 +1,19 @@
+.SK_ForceDarkMode {
+  background-color: #1b1b32 !important;
+}
+
+.SK_ForceDarkMode div:has(p), .SK_ForceDarkMode div:has(li), .SK_ForceDarkMode div:has(ul) {
+  background-color: #808080 !important;
+}
+
+.SK_ForceDarkMode div:has(h2), .SK_ForceDarkMode h2 {
+  background-color: #505050 !important;
+}
+
+.SK_ForceDarkMode h1 {
+  color: #606060 !important;
+}
+
+.SK_ForceDarkMode a {
+  color: #5699e8 !important;
+}
